@@ -1,7 +1,7 @@
 Hi 👋 My name is Hamza
 ======================
 
-Full Stack Developer
+Software Developer
 --------------------
 
 ### Skills
