@@ -1,7 +1,7 @@
 Hi 👋 My name is Hamza
 ======================
 
-Software Developer
+Softwar Developer
 --------------------
 
 ### Skills
